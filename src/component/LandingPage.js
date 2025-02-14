@@ -56,20 +56,20 @@ const LandingPage = () => {
               <div className='d-flex flex-column align-items-center text-center'>
                 <div className='d-flex gap-2 p-3'>
                   <FaMapMarkerAlt size={24} />
-                  <span>Pickup Location</span>
+                  <span>Drop up Location</span>
                 </div>
                 <div className='d-flex gap-2'>
-                  <small>Pickup Location</small>
+                  <small>Drop up Location</small>
                   <FaMapMarkerAlt size={24} />
                 </div>
               </div>
               <div className='d-flex flex-column align-items-center text-center'>
                 <div className='d-flex gap-2 p-3'>
                   <FaCalendar size={24} />
-                  <span>Pick-up date and Time </span>
+                  <span>drop-up date and Time </span>
                 </div>
                 <div className='d-flex gap-2'>
-                  <small>Pick-up date and Time </small>
+                  <small>drop-up date and Time </small>
                   <FaCalendar size={24} />
                 </div>
               </div>
